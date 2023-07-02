@@ -9,6 +9,7 @@
 // 9 4 2
 // 2 2 6
 // 3 4 7
+
 void FillMatrixWithRandom(int[,] matrix)
 {
     Random rnd = new Random();
